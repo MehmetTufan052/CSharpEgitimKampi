@@ -327,7 +327,7 @@ namespace _03_MakingDecision
             {
                 case '+':
                     result = number1 + number2;
-                    Console.WriteLine("Toplam: " + result);
+                    Console.WriteLine("Toplam:  " + result);
                     break;
 
                 case '-':
