@@ -140,7 +140,7 @@ namespace _04_Loops
 
             //while (i <= 10)
             //{
-            //    sum += i;
+            //    sum += i; 
             //    i++;
             //}
             //Console.WriteLine(sum);
