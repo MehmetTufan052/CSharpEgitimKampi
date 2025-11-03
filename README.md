@@ -1,4 +1,4 @@
-💡 C# Eğitim Kampı Proje Serisi
+#💡 C# Eğitim Kampı Proje Serisi
 
 Bu repo, Murat Yücedağ tarafından yürütülen C# Eğitim Kampı sürecinde tamamladığım ilk 10 projeyi barındırmaktadır.
 Her proje, C# dilindeki temel kavramları daha iyi anlamamı ve uygulama becerilerimi geliştirmemi sağladı.
