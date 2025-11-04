@@ -47,11 +47,11 @@ namespace FinancialCrm
                                         MessageBoxButtons.OK,
                                         MessageBoxIcon.Information);
 
-                        // 🔸 Giriş başarılıysa kendi ana formunu aç
-                        FrmDashboard frm = new FrmDashboard(); // Kendi ana formunun adı neyse
+                        
+                        FrmDashboard frm = new FrmDashboard(); 
                         frm.Show();
 
-                        this.Hide(); // Login formunu gizle
+                        this.Hide();
                     }
                     else
                     {
@@ -73,4 +73,5 @@ namespace FinancialCrm
     }
 }
     
+
 
