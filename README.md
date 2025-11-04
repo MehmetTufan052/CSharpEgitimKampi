@@ -59,6 +59,9 @@ Bu sayede veritabanı yönetimi ve dinamik veri işleme konularında pratik kaza
 
 <img width="1034" height="513" alt="EFPROJECT" src="https://github.com/user-attachments/assets/258f895b-e472-4d4f-abb9-11cc28489c16" />
 
+
+
+
 # 🧭 Proje 11: EfTravel İstatistik Paneli
 
 Bu projede, Entity Framework kullanarak bir seyahat veritabanındaki verileri analiz eden ve kullanıcıya görsel olarak sunan bir istatistik paneli oluşturdum.
@@ -86,3 +89,34 @@ Veritabanı sonuçlarını işleyip mantıksal olarak analiz ederek uygulamanın
 
 Bu proje, hem veri erişimi hem de arayüz geliştirme alanlarında pratik kazanmamı sağladı.
 Ayrıca, önceki projelerde öğrendiğim kavramları birleştirerek daha kapsamlı bir uygulama geliştirme fırsatı sundu. 🚀
+
+
+# 🏦 Proje 12: Finansal CRM Uygulaması (.NET WinForms + Entity Framework)
+
+Bu proje, Windows Forms ile geliştirilmiş bir banka ve finans yönetim panelidir.
+Uygulama, Entity Framework ile veritabanına entegre şekilde çalışır ve kullanıcıya banka bakiyeleri, son işlemler ve genel finansal verileri görsel olarak sunar.
+
+## 🧩 Özellikler
+
+### 💰 Banka Bilgileri Görüntüleme:
+Her banka için toplam bakiye bilgisi kutucuklarda gösterilir.
+
+### 📊 Son 5 Banka Hareketi:
+Güncel işlemler (maaş, burs, transfer vb.) listelenir.
+
+### 🔄 Canlı Veritabanı Entegrasyonu:
+Entity Framework aracılığıyla veriler doğrudan SQL veritabanından çekilir.
+
+### 🏗️ Kullanılan Teknolojiler
+
+C# (.NET Framework / .NET 6+)
+
+Windows Forms
+
+Entity Framework 
+
+SQL Server 
+
+LINQ 
+
+<img width="1099" height="672" alt="CRM" src="https://github.com/user-attachments/assets/a2fe273f-bfe0-41ac-8436-cec7714c4eaa" />
